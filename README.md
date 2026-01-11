@@ -15,15 +15,15 @@ Computational design of a hormone-releasing torus implant. This project implemen
 
 ### 1. Adaptive Mesh Refinement (1D)
 Nodes automatically concentrate around the discontinuities in the source function, validating the error estimator.
-![AMR Grid](AppliedFEM/ProblemB1_FinestMeshes.png)
+<img src="AppliedFEM/ProblemB1_FinestMeshes.png" width="400" />
 
 ### 2. 3D Diffusion Simulation
 Simulation of hormone concentration field $u(\mathbf{x}, t)$ evolving over 30 days.
-![3D Diffusion](AppliedFEM/ProblemB3_Solution_T_30.png)
+<img src="AppliedFEM/ProblemB3_Solution_T_30.png" width="400" />
 
 ### 3. Parameter Sensitivity & Mass Loss
 Tracking cumulative mass loss to match clinical targets.
-![Mass Loss](AppliedFEM/Part3_Task2_Massloss.png)
+<img src="AppliedFEM/Part3_Task2_Massloss.png" width="400" />
 
 ## 🛠️ Methodology
 
