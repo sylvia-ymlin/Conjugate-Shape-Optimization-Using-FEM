@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-import tensorly as tl
+
 
 @dataclass
 class PhysicsParams:
