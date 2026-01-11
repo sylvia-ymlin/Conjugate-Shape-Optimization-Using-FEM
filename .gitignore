@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.DS_Store
+
+# Large files
+*.pdf
+AppliedFEM.pdf
+
+# Private documentation
+interview_prep.md
+project_analysis.md
+project_status.md
+*.aux
+*.log
+*.out
