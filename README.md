@@ -1,6 +1,6 @@
 # Hormone-Releasing Medical Implant Design
 
-**Stack**: Python (FEniCS, SciPy, NumPy), MATLAB 
+**Stack**: Python (FEniCS, SciPy, NumPy), MATLAB
 
 **Methods**: Nelder-Mead optimization, Crank-Nicolson time-stepping, adaptive FEM
 
