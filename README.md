@@ -54,10 +54,11 @@ python plot_results.py
 
 ### 3. 2D Simulation Visualization
 
-<p float="left">
+<p align="center">
   <img src="AppliedFEM/ProblemB3_InitialSolution.png" width="40%" />
   <img src="AppliedFEM/ProblemB3_Solution_T_30.png" width="40%" />
 </p>
+
 *Hormone diffusion from torus (left: T=0, right: T=30)*
 
 ### 4. Final Optimized Design
