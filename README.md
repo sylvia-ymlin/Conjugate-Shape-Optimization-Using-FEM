@@ -48,7 +48,7 @@ python plot_results.py
 
 ### 2. Numerical Convergence Validation
 
-<img src="AppliedFEM/ProblemB1_TheConvergenceRateAnalysis.png" alt="Convergence Analysis" style="zoom:50%;" />
+<img src="AppliedFEM/ProblemB1_TheConvergenceRateAnalysis.png" alt="Convergence Analysis" style="zoom:30%;" />
 
 *Error decreases predictably with mesh refinement—solver is reliable*
 
