@@ -1,5 +1,7 @@
 # Hormone-Releasing Medical Implant Design
 
+**Stack**: Python (FEniCS, SciPy, NumPy), MATLAB | **Methods**: Nelder-Mead optimization, Crank-Nicolson time-stepping, adaptive FEM
+
 ## The Problem
 Designing medical implants that deliver precise drug doses over time requires solving complex 3D diffusion equations with multiple geometric and chemical parameters.
 
@@ -59,7 +61,3 @@ python plot_results.py
 **Reaction coefficients have opposite effects**: β slows total mass loss, γ accelerates it—counterintuitive but critical for tuning release profiles.
 
 **Adaptive meshing matters**: Concentrating nodes near discontinuities (at x = {-0.8, -0.2, 0.2, 0.8}) achieved target accuracy with 40 nodes vs 200+ with uniform mesh.
-
----
-
-**Stack**: Python (FEniCS, SciPy, NumPy), MATLAB | **Methods**: Nelder-Mead optimization, Crank-Nicolson time-stepping, adaptive FEM
