@@ -42,7 +42,7 @@ python plot_results.py
 
 ### 1. Adaptive Mesh Refinement
 
-<img src="AppliedFEM/Problem%20A_2.png" alt="Adaptive FEM" style="zoom: 50%;" />
+<img src="AppliedFEM/Problem%20A_2.png" alt="Adaptive FEM" style="zoom: 40%;" />
 
 *Algorithm automatically concentrates nodes where error is highest—achieved target accuracy with 40 nodes vs 200+ uniform mesh*
 
@@ -63,7 +63,7 @@ python plot_results.py
 
 ### 4. Final Optimized Design
 
-<img src="AppliedFEM/Part3_Task2_Massloss.png" alt="Optimized Mass Loss" style="zoom: 67%;" />
+<img src="AppliedFEM/Part3_Task2_Massloss.png" alt="Optimized Mass Loss" style="zoom: 50%;" />
 
 *Final design hits all three target doses at days 5, 7, and 30*
 
